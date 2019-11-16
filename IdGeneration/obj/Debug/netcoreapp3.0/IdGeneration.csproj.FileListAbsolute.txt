@@ -1,8 +1,0 @@
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\bin\Debug\netcoreapp3.0\IdGeneration.deps.json
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\bin\Debug\netcoreapp3.0\IdGeneration.dll
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\bin\Debug\netcoreapp3.0\IdGeneration.pdb
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\obj\Debug\netcoreapp3.0\IdGeneration.csprojAssemblyReference.cache
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\obj\Debug\netcoreapp3.0\IdGeneration.AssemblyInfoInputs.cache
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\obj\Debug\netcoreapp3.0\IdGeneration.AssemblyInfo.cs
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\obj\Debug\netcoreapp3.0\IdGeneration.dll
-C:\Users\arupade\source\repos\IdGeneration\IdGeneration\obj\Debug\netcoreapp3.0\IdGeneration.pdb
