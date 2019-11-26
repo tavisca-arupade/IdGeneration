@@ -11,13 +11,12 @@
         {
             timestamp = TimeStamp.GetCurrentTime();
             macAddress = MachineAddress.GetMacAddress();
-            randomNumber = RandomNumber.GetRandomNumber();
+            randomNumber = RandomNumber.GetNext();
             return CreateId();
         }
 
         private byte[] CreateId()
         {
-
             id[0] = timestamp[0];
             id[1] = timestamp[1];
             id[2] = timestamp[2];

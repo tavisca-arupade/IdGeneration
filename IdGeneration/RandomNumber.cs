@@ -6,7 +6,7 @@ namespace IDGeneration
     {
         static Random random = new Random();
 
-        public static byte[] GetRandomNumber()
+        public static byte[] GetNext()
         {
             byte[] randomNumber = new byte[2];
             random.NextBytes(randomNumber);
